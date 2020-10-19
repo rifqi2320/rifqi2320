@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hello my name is **Rifqi Naufal Abdjul**. People usually call me **Rifqi** or **Iqi** for short.
+here is some of my description about myself
+* I'm Indonesian, to be exact i live in Bekasi
+* I'm an undergraduate student in School of Electrical Engineering and Informatics at Bandung Institute of Technology
+* Once i was a science and chemistry kind of guy, now i'm a technology kind of guy. I love trying cool things! 😄
+* I always look for new opportunities to seek new skills and new friends!
+
+anyway, here's my [linkedin](https://www.linkedin.com/in/rifqi-naufal-abdjul-5a41b11b9/) if you're interested.
 <!--
 **rifqi2320/rifqi2320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
